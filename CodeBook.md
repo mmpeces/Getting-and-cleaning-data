@@ -30,7 +30,7 @@ was downloaded.
 ## Code Book
 ### Variables
 
-Information about the variables from features_info.txt located with the raw data (see Raw Data section).
+Information about the variables from features_info.txt located with the raw data (see Data source section).
 
 Feature Selection 
 =================
