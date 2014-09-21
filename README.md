@@ -14,7 +14,7 @@ From instructions copied from Coursera project website, the code does the follow
 Details of code steps can be found in the CodeBook.md file in my Getting-and-cleaing-data repository. 
 
 Additional details:
-1. Code lines 4 and 5 will call libraries data.table and reshape2, which are necessary for the code.  Please install these packages prior to running code, if not currently installed. 
-2. If the Samsung data is not downloaded, remove the "##" located on code lines 9 to 13 and the code will be downloand and unzipped into working directory.
-3. The Samsung data must be in your working directory.  
-4. Tidy text file will be written to working directory.
+-1. Code lines 4 and 5 will call libraries data.table and reshape2, which are necessary for the code.  Please install these packages prior to running code, if not currently installed. 
+-2. If the Samsung data is not downloaded, remove the "##" located on code lines 9 to 13 and the code will be downloand and unzipped into working directory.
+-3. The Samsung data must be in your working directory.  
+-4. Tidy text file will be written to working directory.
